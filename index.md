@@ -1,0 +1,10 @@
+# SubscriptionTracker 法的文書
+
+本リポジトリは、アプリ「SubscriptionTracker」に関する法的文書を公開するためのページです。
+
+- [プライバシーポリシー](./privacy-policy.md)
+- [利用規約](./terms.md)
+
+---
+
+お問い合わせについては各ドキュメント内の記載をご確認ください。
