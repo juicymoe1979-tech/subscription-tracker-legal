@@ -1,6 +1,6 @@
-# SubscriptionTracker 法的文書
+# ミエサブ 法的文書
 
-本リポジトリは、アプリ「SubscriptionTracker」に関する法的文書を公開するためのページです。
+本リポジトリは、アプリ「ミエサブ」に関する法的文書を公開するためのページです。
 
 - [プライバシーポリシー](./privacy-policy.md)
 - [利用規約](./terms.md)
